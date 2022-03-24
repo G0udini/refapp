@@ -42,3 +42,11 @@ Use **docker-compose up --build** command to run app in docker
     * существоания пользователя с таким кодом
     * проверки отличности кода от собственного
     * возможностью подписаться только 1 рааз
+
+# API
+
+* api/v1/user/login/initial/ - Ввести телефон и получить 4х значный код
+* api/v1/user/login/complete/ - Отправить телефон и код и получить access- refresh- токены для авторизации
+* api/v1/user/token/refresh/ - Обновить access токен благодаря отпавки refresh токена
+* api/v1/profile/id{pk}/ - Получить профиль пользователя со всеми данными
+* api/v1/profile/id3/subscribe/ - подписаться на пользователя с валидным инвайт кодом
