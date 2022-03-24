@@ -1,0 +1,82 @@
+[
+{
+    "model": "referal.referal",
+    "pk": 1,
+    "fields": {
+        "own": 3,
+        "follow": 1
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 3,
+    "fields": {
+        "own": 3,
+        "follow": 2
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 7,
+    "fields": {
+        "own": 2,
+        "follow": 3
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 8,
+    "fields": {
+        "own": 6,
+        "follow": 8
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 9,
+    "fields": {
+        "own": 3,
+        "follow": 6
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 10,
+    "fields": {
+        "own": 6,
+        "follow": 5
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 11,
+    "fields": {
+        "own": 6,
+        "follow": 9
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 12,
+    "fields": {
+        "own": 6,
+        "follow": 10
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 13,
+    "fields": {
+        "own": 2,
+        "follow": 11
+    }
+},
+{
+    "model": "referal.referal",
+    "pk": 14,
+    "fields": {
+        "own": 2,
+        "follow": 12
+    }
+}
+]

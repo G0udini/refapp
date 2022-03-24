@@ -1,0 +1,167 @@
+[
+{
+    "model": "user.customuser",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$tm1POLCcGp7ECO5YOKQxWc$TQsYEt7FJamd3rcOjRkVInyqOQvXZjiMHshwrYq2sM8=",
+        "last_login": "2022-03-24T11:04:06.762Z",
+        "phone_number": "+79773390090",
+        "referal_code": "hKUHB9",
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 2,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79773390091",
+        "referal_code": "0DIscb",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 3,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79773390092",
+        "referal_code": "xj7zbE",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 5,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79180030101",
+        "referal_code": "jJQV4x",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 6,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79349900031",
+        "referal_code": "SRc0Rh",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 8,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79813390099",
+        "referal_code": "3kXeuX",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 9,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+12125552368",
+        "referal_code": "41H39m",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 10,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+79316752222",
+        "referal_code": "C7guss",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 11,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+13313330088",
+        "referal_code": "fzN0Bq",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 12,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "phone_number": "+73456789900",
+        "referal_code": "V1imQy",
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$Yw4GGTeHK9WRn2HPWdpewp$L1+1F2oa8naYOyb3bE/YbzW6takV4x5Z1I4FchjPQsY=",
+        "last_login": null,
+        "phone_number": "+79771111111",
+        "referal_code": "ikqI0u",
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
